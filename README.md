@@ -1,3 +1,3 @@
 # hello-world
 
-Just trying to learn about Git-Hub and this is my very first repository!
+Just trying to learn about GitHub and this is my very first repository!
